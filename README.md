@@ -1,5 +1,4 @@
 # Wifi-Controlled-Car
-# Wifi-Controlled-Car
 
 This project allows you to control a car using Wi-Fi through an ESP8266 microcontroller. It connects to a Wi-Fi network and listens for commands to move the car in different directions, adjust its speed, and perform other actions like turning on a buzzer.
 
